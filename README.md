@@ -28,26 +28,21 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
-
 ### Github 状态图
 
-<div align="center">
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
 </div>
-
-
 
 ### Github 贡献图
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=cyqddx&theme=react">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyqddx&theme=react" alt="GitHub Activity Graph"/>
   </a>
 </div>
 
-
 ### 投喂作者🍭🍭🍭
 
 <!-- <a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a> -->
-
