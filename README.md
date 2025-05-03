@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:cyqddx?theme=moebooru">
+<img align="right" src="https://count.getloli.com/get/@:cyqddx?theme=rule34">
 
 ## 长夜青灯独行
 <!-- 个人资料 -->
