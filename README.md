@@ -29,12 +29,12 @@
 
 ### Github 状态图
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 300px; box-sizing: border-box;">
-    <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; min-width: 620px;">
+  <div style="flex: 0 0 calc(50% - 10px);">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
   </div>
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 300px; box-sizing: border-box;">
-    <img style="width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+  <div style="flex: 0 0 calc(50% - 10px);">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
   </div>
 </div>
 
