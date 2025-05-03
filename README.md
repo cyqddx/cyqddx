@@ -32,14 +32,21 @@
 
 ### Github 状态图
 
+<div align="center">
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+</div>
+
+<br>
 
 ### Github 贡献图
 
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fomalhaut1998&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://ghchart.rshah.org/409ba5/cyqddx" />
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyqddx&theme=react" alt="GitHub Activity Graph"/>
+  </a>
+  <img src="https://ghchart.rshah.org/409ba5/cyqddx" alt="GitHub Contributions Chart"/>
+</div>
 
 <br>
 
