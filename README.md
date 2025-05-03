@@ -30,8 +30,8 @@
 ### Github 状态图
 
 <div style="overflow-x: auto; display: flex; gap: 20px; padding: 10px;">
-  <img style="min-width: 300px; width: 480px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
-  <img style="min-width: 300px; width: 480px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
+  <img style="min-width: 100px; width: 240px; height: 160px;" src="https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据"/>
+  <img style="min-width: 100px; width: 240px; height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
 </div>
 
 ### Github 贡献图
