@@ -28,7 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
-<br>
 
 ### Github 状态图
 
@@ -37,7 +36,7 @@
 <img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=常用语言"/>
 </div>
 
-<br>
+
 
 ### Github 贡献图
 
@@ -45,13 +44,10 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyqddx&theme=react" alt="GitHub Activity Graph"/>
   </a>
-  <img src="https://ghchart.rshah.org/409ba5/cyqddx" alt="GitHub Contributions Chart"/>
 </div>
 
-<br>
 
 ### 投喂作者🍭🍭🍭
 
 <!-- <a href="https://www.fomal.cc/personal/about/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" style="height: 40px !important;width: 145px !important;" ></a> -->
 
-<br>
