@@ -3,7 +3,6 @@
 ## 长夜青灯独行
 <!-- 个人资料 -->
 <p align="center">
-<a href="https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f"><img align="center" src="https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg" ></a>
 <a href="https://blog.20010117.xyz" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>
 <a href="https://space.bilibili.com/480620671" target="_blank"><img align="center" src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat"/></a>
 <a href="https://docs.20010117.xyz" target="_blank"><img align="center"  src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat"/></a>
