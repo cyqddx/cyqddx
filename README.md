@@ -23,7 +23,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-![python](https://img.shields.io/badge/-Python-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![python](https://img.shields.io/badge/-Python-%23ED5A47?style=flat&logo=python&logoColor=%23ffffff)
 
 ## Github 状态图
 
