@@ -34,4 +34,4 @@
 
 ## 投喂作者🍭
 
-[![投喂作者]](https://www.fomal.cc/personal/about/)
+<!-- [![投喂作者]](https://www.fomal.cc/personal/about/) -->
