@@ -1,8 +1,14 @@
 <img align="right" src="https://count.littlebell.top/@cyqddx?name=cyqddx&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 # 长夜青灯独行
+<!-- 个人资料 -->
+<div align="center">
+  <a href="https://blog.20010117.xyz" target="_blank"><img src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat" alt="Blog"/></a>
+  <a href="https://space.bilibili.com/480620671" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-%23df1a7c?style=flat" alt="Bilibili"/></a>
+  <a href="https://docs.20010117.xyz" target="_blank"><img src="https://img.shields.io/badge/Docs-文档站-%231a41df?style=flat" alt="Docs"/></a>
+</div>
 
-[![Blog]](https://blog.20010117.xyz) | [![Bilibili]](https://space.bilibili.com/480620671) | [![Docs]](https://docs.20010117.xyz)
+## 个人信息👤
 
 你好！我是 cyqddx，热爱编程与技术分享。欢迎查看我的开源项目与技术笔记。
 
@@ -28,4 +34,4 @@
 
 ## 投喂作者🍭
 
-<!-- [![投喂作者]](https://www.fomal.cc/personal/about/) -->
+[![投喂作者]](https://www.fomal.cc/personal/about/)
