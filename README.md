@@ -32,6 +32,8 @@
 ![Github漫游数据](https://github-readme-stats.vercel.app/api?username=cyqddx&locale=cn&line_height=21&show_icons=true&theme=dark&rank_icon=default&include_all_commits=true&custom_title=Github漫游数据)
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&include_all_commits=true&locale=cn&line_height=21&theme=dark&langs_count=6&layout=compact&custom_title=常用语言)
 
-## 投喂作者🍭
+## 请我喝杯咖啡
 
-<!-- [![投喂作者]](https://www.fomal.cc/personal/about/) -->
+<p align = "left">    
+<img  src="./images/Coffee-QR-code.png" width="200" />
+</p>
