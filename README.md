@@ -119,8 +119,8 @@
 <!-- 可选：传统外链 stats（偶尔会抽风），想用再放开 -->
 <!--
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=2" />
+  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2" />
+  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=2" />
 </p>
 -->
 
