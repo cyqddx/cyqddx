@@ -99,30 +99,12 @@
 
 ## 📡 战斗记录（GitHub Summary Cards · 稳定版）
 
-> 这些图来自仓库内 `profile-summary-card-output/`（由 GitHub Actions 生成并提交）。
-> 不依赖外部统计站点，稳定性更高。
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
-
 <!-- 可选：传统外链 stats（偶尔会抽风），想用再放开 -->
-<!--
+
 <p align="center">
   <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2" />
   <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=2" />
 </p>
--->
 
 ---
 
