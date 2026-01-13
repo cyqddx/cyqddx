@@ -1,24 +1,31 @@
 <!-- =========================================================
   Profile README for: cyqddx
-  风格：二次元 / RPG UI / 夜色霓虹（克制版）
+  风格：二次元 / RPG 技能树 / 夜色霓虹（克制版）
   稳定策略：
   - 访客计数类服务易失效：默认使用静态徽章
-  - GitHub 状态图：使用仓库内生成 summary cards（推荐）
+  - GitHub 状态图：使用可用的 stats 服务（你自建 vercel 域名）
 ========================================================= -->
 
-<!-- 右上角徽章：稳定（不依赖计数服务） -->
 <img align="right" src="https://img.shields.io/badge/%E8%A7%82%E6%B5%8B%E8%80%85%E7%8A%B6%E6%80%81-ONLINE-ff69b4?style=flat" />
-
-<!-- 如果你之后找到了可用的访客计数服务，替换下面这行并取消注释即可 -->
-<!--
-<img align="right" src="https://komarev.com/ghpvc/?username=cyqddx&label=%E6%AC%A1%E5%85%83%E8%A7%82%E6%B5%8B%E8%80%85&color=ff69b4&style=flat" />
--->
 
 <h1 align="center">🌙 长夜青灯独行</h1>
 
 <p align="center">
   <sub>「代码是咒语，终端是法阵，Bug 是异界生物。」</sub><br/>
-  <b>你好，我是 <code>cyqddx</code>｜编程与技术分享｜工程化实践记录 🧪</b>
+  <b>你好，我是 <code>cyqddx</code>｜Python × AI 工程实践｜技术分享与文档炼金 🧪</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HP-100%25-ff4d6d?style=flat" />
+  <img src="https://img.shields.io/badge/MP-86%25-6a5acd?style=flat" />
+  <img src="https://img.shields.io/badge/EXP-++-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/BUFF-%E6%96%87%E6%A1%A3%E5%8A%A0%E6%88%90-ff69b4?style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E6%AD%A6%E5%99%A8-%E7%B4%AB%E8%89%B2%E9%9C%93%E8%99%B9-8a2be2?style=flat" />
+  <img src="https://img.shields.io/badge/%E5%9C%BA%E6%99%AF-%E5%A4%9C%E8%89%B2%E7%BB%88%E7%AB%AF-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/%E5%AF%B9%E6%8A%97-Bug%20Raid-ff4d6d?style=flat" />
 </p>
 
 <p align="center">
@@ -31,6 +38,9 @@
   <a href="https://docs.20010117.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Docs-文档站-1a41df?style=flat&logo=readthedocs&logoColor=white" />
   </a>
+  <a href="mailto:2685475410@qq.com">
+    <img src="https://img.shields.io/badge/Mail-2685475410%40qq.com-8a2be2?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -40,19 +50,15 @@
 <table>
   <tr>
     <td><b>称号</b></td>
-    <td>夜行工程师 / 文档炼金术士 / 自动化召唤师</td>
+    <td>AI 工程师 / 文档炼金术士 / 自动化召唤师</td>
   </tr>
   <tr>
     <td><b>阵营</b></td>
-    <td>开源友好 · 工程理性 · 可复现主义</td>
+    <td>工程理性 · 可复现主义 · 反复打磨派</td>
   </tr>
   <tr>
     <td><b>主属性</b></td>
-    <td>Linux + 后端 + 工具链 + 自动化</td>
-  </tr>
-  <tr>
-    <td><b>被动技能</b></td>
-    <td>复盘、写文档、拆模块、反复打磨</td>
+    <td>Python + AI/LLM + 工程化 + 自动化</td>
   </tr>
   <tr>
     <td><b>当前章节</b></td>
@@ -62,48 +68,59 @@
 
 ---
 
-## 🧭 任务面板（Quests）
+## 🌳 技能树（已装备 / 研发中 / 待解锁）
 
-- ✅ **主线任务**：持续整理技术笔记（Docs 更新中）
-- 🧩 **支线任务**：脚本化/服务化小工具（减少重复劳动）
-- 🧠 **隐藏任务**：建立个人工程体系（规范、模板、自动化流水线）
+> 图例：✅ 已装备｜🧪 研发中｜🔒 待解锁  
+>（技能树是“真实 + 进化”的：你随时可以把🧪升级成✅，把🔒点亮成🧪）
+
+### ✅ 已装备（主力输出）
+
+<p>
+  <img src="https://img.shields.io/badge/Python-✅-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-✅-fcc624?style=flat&logo=linux&logoColor=242424" />
+  <img src="https://img.shields.io/badge/Git-✅-ED5A47?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-✅-89E051?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-✅-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-✅-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-✅-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-✅-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+### 🧪 研发中（正在点技能）
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20App-🧪-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-🧪-6a5acd?style=flat" />
+  <img src="https://img.shields.io/badge/LangChain-🧪-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/LlamaIndex-🧪-6a5acd?style=flat" />
+  <img src="https://img.shields.io/badge/HF%20Transformers-🧪-ff69b4?style=flat&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-🧪-8a2be2?style=flat" />
+  <img src="https://img.shields.io/badge/ReRanker-🧪-ff69b4?style=flat" />
+  <img src="https://img.shields.io/badge/VectorDB-🧪-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/FAISS-🧪-6a5acd?style=flat" />
+  <img src="https://img.shields.io/badge/RAGAS-🧪-ff69b4?style=flat" />
+  <img src="https://img.shields.io/badge/Tracing-🧪-00c2ff?style=flat" />
+</p>
+
+### 🔒 待解锁（未来技能位）
+
+<p>
+  <img src="https://img.shields.io/badge/Milvus-🔒-00a1ff?style=flat" />
+  <img src="https://img.shields.io/badge/ElasticSearch-🔒-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-🔒-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-🔒-00c2ff?style=flat" />
+  <img src="https://img.shields.io/badge/ONNX-🔒-005CED?style=flat&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-🔒-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-🔒-8a2be2?style=flat" />
+</p>
 
 ---
 
-## 🧰 装备栏（Tech Stack）
-
-<table>
-  <tr>
-    <td><b>语言</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-13c9ae?style=flat&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-972fcd?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000" />
-      <img src="https://img.shields.io/badge/Python-ED5A47?style=flat&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>平台 / 工具</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=242424" />
-      <img src="https://img.shields.io/badge/Node.js-579050?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-ED5A47?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-0066B8?style=flat&logo=visualstudiocode&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📡 战斗记录（GitHub Summary Cards · 稳定版）
-
-<!-- 可选：传统外链 stats（偶尔会抽风），想用再放开 -->
+## 📡 战斗记录（GitHub Stats）
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2" />
-  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=2" />
+  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=6" />
+  <img height="165" src="https://github-readme-stats-seven-orpin-77.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=6" />
 </p>
 
 ---
@@ -113,6 +130,7 @@
 - 🌐 Blog：<https://blog.20010117.xyz>
 - 📘 Docs：<https://docs.20010117.xyz>
 - 📺 Bilibili：<https://space.bilibili.com/480620671>
+- 📮 Email：<mailto:2685475410@qq.com>
 
 ---
 
