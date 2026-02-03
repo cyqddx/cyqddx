@@ -71,7 +71,6 @@
 ## 🌳 技能树（已装备 / 研发中 / 待解锁）
 
 > 图例：✅ 已装备｜🧪 研发中｜🔒 待解锁  
->（技能树是“真实 + 进化”的：你随时可以把🧪升级成✅，把🔒点亮成🧪）
 
 ### ✅ 已装备（主力输出）
 
@@ -97,21 +96,16 @@
   <img src="https://img.shields.io/badge/Embeddings-🧪-8a2be2?style=flat" />
   <img src="https://img.shields.io/badge/ReRanker-🧪-ff69b4?style=flat" />
   <img src="https://img.shields.io/badge/VectorDB-🧪-00c2ff?style=flat" />
-  <img src="https://img.shields.io/badge/FAISS-🧪-6a5acd?style=flat" />
   <img src="https://img.shields.io/badge/RAGAS-🧪-ff69b4?style=flat" />
-  <img src="https://img.shields.io/badge/Tracing-🧪-00c2ff?style=flat" />
 </p>
 
 ### 🔒 待解锁（未来技能位）
 
 <p>
   <img src="https://img.shields.io/badge/Milvus-🔒-00a1ff?style=flat" />
-  <img src="https://img.shields.io/badge/ElasticSearch-🔒-005571?style=flat&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-🔒-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/vLLM-🔒-00c2ff?style=flat" />
-  <img src="https://img.shields.io/badge/ONNX-🔒-005CED?style=flat&logo=onnx&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorRT-🔒-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-🔒-8a2be2?style=flat" />
 </p>
 
 ---
