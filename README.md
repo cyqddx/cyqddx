@@ -113,8 +113,8 @@
 ## 📡 战斗记录（GitHub Stats）
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-eosin-30.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=6" />
-  <img height="165" src="https://github-readme-stats-eight-eosin-30.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=6" />
+  <img height="165" src="https://github-readme-stats-three-phi-58.vercel.app/api?username=cyqddx&show_icons=true&theme=tokyonight&cache_seconds=86400&v=6" />
+  <img height="165" src="https://github-readme-stats-three-phi-58.vercel.app/api/top-langs/?username=cyqddx&layout=compact&theme=tokyonight&cache_seconds=86400&v=6" />
 </p>
 
 ---
